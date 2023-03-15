@@ -1,2 +1,2 @@
 # springbootproject
-annotation base configuratiom
+java base configuratiom
